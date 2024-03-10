@@ -1,0 +1,29 @@
+body {
+    background-color: blue;
+}
+.instagram-post {
+    background-color: white;
+    width: 600px;
+    margin: 20px auto;
+
+
+}
+
+img {
+    width: 100%;
+}
+
+.ig-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px;
+}
+
+.instagram-footer {
+    padding: 0px 10px 10px;
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+}
